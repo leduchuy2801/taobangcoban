@@ -1,0 +1,32 @@
+.rRow {
+    width: 100px;
+    color: blue;
+    display: inline-block;
+    text-align: right;
+}
+
+.lRow {
+    margin-right: 10px;
+}
+
+#main {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    padding: 40px;
+
+    
+}
+#header {
+    color: white;
+}
+
+#main #header {
+    text-align: center;
+    background-color: #ff4c00;
+    padding: 10px 0 10px 0;
+}
+#finput{
+    width: 200px;
+}
